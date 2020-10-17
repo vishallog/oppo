@@ -1,4 +1,4 @@
-  <?
+  <php?
 $conn=mysql_connect("localhost","root","");
 mysql_select_db("apllication",$conn);
 session_start();
